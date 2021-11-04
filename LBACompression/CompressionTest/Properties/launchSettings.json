@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompressionTest": {
+      "commandName": "Project",
+      "commandLineArgs": "c 2 f:\\lba_comp\\text006.lbt .\\text006.lb_"
+    }
+  }
+}

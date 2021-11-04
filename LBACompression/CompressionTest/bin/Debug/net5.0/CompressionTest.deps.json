@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CompressionTest/1.0.0": {
+        "dependencies": {
+          "LBACompression": "1.0.0"
+        },
+        "runtime": {
+          "CompressionTest.dll": {}
+        }
+      },
+      "LBACompression/1.0.0": {
+        "runtime": {
+          "LBACompression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompressionTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LBACompression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

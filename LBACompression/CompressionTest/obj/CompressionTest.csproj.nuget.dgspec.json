@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\lbatools\\lbatools-cs\\LBACompression\\CompressionTest\\CompressionTest.csproj": {}
+  },
+  "projects": {
+    "F:\\lbatools\\lbatools-cs\\LBACompression\\CompressionTest\\CompressionTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\lbatools\\lbatools-cs\\LBACompression\\CompressionTest\\CompressionTest.csproj",
+        "projectName": "CompressionTest",
+        "projectPath": "F:\\lbatools\\lbatools-cs\\LBACompression\\CompressionTest\\CompressionTest.csproj",
+        "packagesPath": "C:\\Users\\OBattler\\.nuget\\packages\\",
+        "outputPath": "F:\\lbatools\\lbatools-cs\\LBACompression\\CompressionTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OBattler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\LBACompression.csproj": {
+                "projectPath": "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\LBACompression.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\LBACompression.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\LBACompression.csproj",
+        "projectName": "LBACompression",
+        "projectPath": "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\LBACompression.csproj",
+        "packagesPath": "C:\\Users\\OBattler\\.nuget\\packages\\",
+        "outputPath": "F:\\lbatools\\lbatools-cs\\LBACompression\\LBACompression\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OBattler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
